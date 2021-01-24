@@ -1,2 +1,2 @@
 # Snake-Game-AI
-Kecerdasan buatan pada snake game dengan menggunakan bahasa JAVA
+An AI written in Java that makes snake find a shortest way to find a food
